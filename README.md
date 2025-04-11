@@ -21,8 +21,7 @@ After uploading, it:
 
 ### 1. Import the Shortcut
 
-Download and open the provided `.shortcut` file or [iCloud Shortcut link](#)  
-(https://www.icloud.com/shortcuts/3e2fd031facf4093afff6b99d1f04c23)
+Download and open the provided `.shortcut` file or [iCloud Shortcut link](https://www.icloud.com/shortcuts/3e2fd031facf4093afff6b99d1f04c23)
 
 ### 2. Configure your URL and token
 
