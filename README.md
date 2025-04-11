@@ -91,7 +91,7 @@ This link is:
 
 - iOS 14 or later
 - Shortcuts app
-- A running [XBackbone](https://github.com/XBackBone/XBackBone) instance
+- A running [XBackbone](https://github.com/sergix44/XBackBone) instance
 - An active upload token from your XBackbone user profile
 
 ---
