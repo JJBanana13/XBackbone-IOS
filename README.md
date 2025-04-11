@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R213KNI5)
 # XBackbone iOS Shortcut Uploader
 
 This Shortcut allows you to upload any file from the iOS Share Sheet directly to your XBackbone instance.  
@@ -5,7 +6,6 @@ After uploading, it:
 - Appends `/raw` to the resulting URL
 - Copies the final link to your clipboard
 - Shows a QR code for quick scanning
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R213KNI5)
 ---
 
 ## ✨ Features
