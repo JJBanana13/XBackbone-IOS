@@ -98,7 +98,7 @@ This link is:
 
 ## License
 
-MIT License  
+CC0-1.0 license
 This project is open source and free to use.
 
 ---
