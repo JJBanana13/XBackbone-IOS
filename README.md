@@ -5,7 +5,7 @@ After uploading, it:
 - Appends `/raw` to the resulting URL
 - Copies the final link to your clipboard
 - Shows a QR code for quick scanning
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R213KNI5)
 ---
 
 ## ✨ Features
